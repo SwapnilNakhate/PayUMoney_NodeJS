@@ -1,6 +1,6 @@
 {
   "name": "payumoney_nodejs",
-  "version": "2.0.2",
+  "version": "2.0.4",
   "description": "The paymoney_nodejs library written for NodeJs helps you to pay through payUMoney payment gateway integration.",
   "main": "index.js",
   "scripts": {
@@ -14,6 +14,10 @@
     "payu",
     "payubizz"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SwapnilNakhate/PayUMoney_NodeJS"
+  },
   "author": "Swapnil Nakhate",
   "license": "ISC",
   "dependencies": {
